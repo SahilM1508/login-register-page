@@ -24,7 +24,4 @@ print("connectins success fully created ")
 
 # describe user;
 # SELECT * FROM user;
-  
-
-
-  
+# ASDFGHJ  
